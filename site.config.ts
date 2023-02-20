@@ -14,7 +14,7 @@ export default siteConfig({
   author: '吴超',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '专注技术、持续学习',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
